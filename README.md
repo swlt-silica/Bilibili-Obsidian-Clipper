@@ -52,6 +52,10 @@
 
 本工具仅在用户已登录 B 站、且有访问权限的前提下获取数据。所有数据通过用户自己的浏览器和 cookie 获取，不经过任何第三方服务器。本工具不存储、不分发任何 B 站内容。使用本工具产生的所有后果由用户自行承担。
 
+## 开发说明
+
+本分支的 **Fast Note Sync（FNS）直存** 与 **批量抓取适配** 部分，由 AI 编程助手 **Claude Code** 辅助编写（含 FNS API 对接、批量流程编排、UI 集成等）。
+
 ## 致谢
 
 - [Bilibili-Obsidian-Clipper](https://github.com/haixiong1997/Bilibili-Obsidian-Clipper) 原作者 haixiong1997
